@@ -1,0 +1,15 @@
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\obj\Debug\net6.0\Chain.csproj.AssemblyReference.cache
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\obj\Debug\net6.0\Chain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\obj\Debug\net6.0\Chain.AssemblyInfoInputs.cache
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\obj\Debug\net6.0\Chain.AssemblyInfo.cs
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\obj\Debug\net6.0\Chain.csproj.CoreCompileInputs.cache
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\bin\Debug\net6.0\Chain.exe
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\bin\Debug\net6.0\Chain.deps.json
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\bin\Debug\net6.0\Chain.runtimeconfig.json
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\bin\Debug\net6.0\Chain.dll
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\bin\Debug\net6.0\ref\Chain.dll
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\bin\Debug\net6.0\Chain.pdb
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\obj\Debug\net6.0\Chain.dll
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\obj\Debug\net6.0\ref\Chain.dll
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\obj\Debug\net6.0\Chain.pdb
+C:\Users\Koda\Desktop\GIT_PROJECTS\Chain\obj\Debug\net6.0\Chain.genruntimeconfig.cache
